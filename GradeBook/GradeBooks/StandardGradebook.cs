@@ -8,7 +8,8 @@ namespace GradeBook.GradeBooks
         {
             Name = name;
             Type = GradeBookType.Standard;
+            // Type = Enums.GradeBookType.Standard;
         }
     }
-    //booge
+    
 }
